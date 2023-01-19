@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.2",
+    "nuxt": "3.0.0",
+    "vite-plugin-pug": "^0.3.2"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.1.96",
+    "@pinia/nuxt": "^0.4.6",
+    "axios": "^1.2.1",
+    "js-cookie": "^3.0.1",
+    "pinia": "^2.0.28",
+    "sass": "^1.56.2",
+    "vuetify": "^3.0.5"
+  }
+}
